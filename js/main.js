@@ -64,10 +64,6 @@ var ideas = [
 jQuery(function ($) {
     refresh();
 
-    $('a').click(function (e) {
-        e.preventDefault();
-    });
-
     $('html').click(function () {
         refresh();
     });
