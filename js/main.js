@@ -83,7 +83,6 @@ jQuery(function ($) {
     });
 
     document.addEventListener('touchstart', function (e) {
-        e.preventDefault();
         refresh();
     }, false);
 
