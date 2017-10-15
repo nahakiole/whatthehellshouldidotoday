@@ -57,8 +57,11 @@ var ideas = [
     'Have a bon fire and roast marshmellows',
     'Visit a historic site',
     'Race remote control cars at the park',
-    'Race remote control cars at the park',
-    'Attend an authors reading'
+    'Attend an authors reading',
+    'Play Dungeons and Dragons',
+    'Play tabletop games',
+    'Play paintball',
+    'Take a random train ride'
 ];
 
 jQuery(function ($) {
